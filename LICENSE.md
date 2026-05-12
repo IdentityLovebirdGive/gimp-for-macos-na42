@@ -1,4 +1,4 @@
-# 
+# Enhance Gimp for macOS with Gimp for macOS custom Action - custom brushes and non-destructive editing, the #1 action. Includes custom brushes and non-destructive editing for a
 
 
 
